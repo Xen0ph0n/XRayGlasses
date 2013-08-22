@@ -1,12 +1,9 @@
 ## XRay Glasses
-Inside This Repository -- We Will See Into The Code...and Find the Evil
+XRay is a quck script which was shared with me by someone who wished to remain annonymous. So this is being shared with no restrictions of any type. Hopefully it will be found to be useful. This has been implemented in the Moloch project to help visualize files and I've successfully leveraged this methodology to detect encoding methods in carrier docs and executable files. 
 
-### History
-This Idea Was Not Mine, But The Implemntation Will Be. If the person who's idea this was would like credit I'd be happy to give it to him, but he has verbosly requested that he 1) not be given any, and 2) this work be free of restriction. 
+The Idea being heuristic, visual, detection of packing methods utilized in advanced exploit laiden files and malware. 
 
-The Idea being heuristic, visual, detection of packing methods utilized in advanced exploit laiden files and malware.
-
-## Usage
+### Usage
 
 ```
 xray.py path/to/file.exe 
@@ -16,7 +13,7 @@ python xray.py ../pathtobadness/malcode.danger
 
 ```
 
-## Output
+### Output
 
 Clearly visibile is the encoded payload, as evidenced by the nullspace displaying a gradient pattern:
 

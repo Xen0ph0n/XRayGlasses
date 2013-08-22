@@ -17,6 +17,6 @@ python xray.py ../pathtobadness/malcode.danger
 
 Clearly visibile is the encoded payload, as evidenced by the nullspace displaying a gradient pattern:
 
-Created from this exploit laden word doc containing a malcious back door: https://www.virustotal.com/file/E4B98573EB8E9EFBA28FEAABCF915600160E36EF3D8C40DA5E716E0A5EAEE6CD/
+Created from this exploit laden word doc containing a malcious back door: https://www.virustotal.com/en/file/E4B98573EB8E9EFBA28FEAABCF915600160E36EF3D8C40DA5E716E0A5EAEE6CD/analysis/
 
 ![Image](https://raw.github.com/Xen0ph0n/XRayGlasses/master/sample.png) 
